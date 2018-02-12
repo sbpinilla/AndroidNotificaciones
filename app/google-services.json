@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "912035391376",
+    "firebase_url": "https://appnotificaciones-57358.firebaseio.com",
+    "project_id": "appnotificaciones-57358",
+    "storage_bucket": "appnotificaciones-57358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912035391376:android:59849f1936e552ca",
+        "android_client_info": {
+          "package_name": "co.com.spm.notificacionesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912035391376-ukf2v1t29mrcg00r0dvoi71u6pl6u4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBytzbsohmww5xTbbo-FWjrjYm1tiOoTm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
